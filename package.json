@@ -2,7 +2,7 @@
   "name": "cncjs",
   "version": "1.9.16-pre",
   "description": "A web-based interface for CNC milling controller running Grbl, Marlin, Smoothieware, or TinyG",
-  "homepage": "https://github.com/cncjs/cncjs",
+  "homepage": "https://github.com/Papsnoek/cncjs",
   "author": "Cheton Wu <cheton@gmail.com>",
   "main": "./dist/cnc/cnc.js",
   "bin": {
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:cncjs/cncjs.git"
+    "url": "git@github.com:Papsnoek/cncjs.git"
   },
   "license": "MIT",
   "engines": {
